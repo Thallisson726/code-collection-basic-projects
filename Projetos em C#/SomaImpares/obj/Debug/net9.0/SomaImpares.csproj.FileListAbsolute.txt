@@ -1,0 +1,14 @@
+D:\Tecnologia\Projetos\C#\SomaImpares\bin\Debug\net9.0\SomaImpares.exe
+D:\Tecnologia\Projetos\C#\SomaImpares\bin\Debug\net9.0\SomaImpares.deps.json
+D:\Tecnologia\Projetos\C#\SomaImpares\bin\Debug\net9.0\SomaImpares.runtimeconfig.json
+D:\Tecnologia\Projetos\C#\SomaImpares\bin\Debug\net9.0\SomaImpares.dll
+D:\Tecnologia\Projetos\C#\SomaImpares\bin\Debug\net9.0\SomaImpares.pdb
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\SomaImpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\SomaImpares.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\SomaImpares.AssemblyInfo.cs
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\SomaImpares.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\SomaImpares.dll
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\refint\SomaImpares.dll
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\SomaImpares.pdb
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\SomaImpares.genruntimeconfig.cache
+D:\Tecnologia\Projetos\C#\SomaImpares\obj\Debug\net9.0\ref\SomaImpares.dll

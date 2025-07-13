@@ -1,0 +1,14 @@
+D:\Tecnologia\Projetos\C#\retangulo\bin\Debug\net9.0\retangulo.exe
+D:\Tecnologia\Projetos\C#\retangulo\bin\Debug\net9.0\retangulo.deps.json
+D:\Tecnologia\Projetos\C#\retangulo\bin\Debug\net9.0\retangulo.runtimeconfig.json
+D:\Tecnologia\Projetos\C#\retangulo\bin\Debug\net9.0\retangulo.dll
+D:\Tecnologia\Projetos\C#\retangulo\bin\Debug\net9.0\retangulo.pdb
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\retangulo.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\retangulo.AssemblyInfo.cs
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\retangulo.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\retangulo.dll
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\refint\retangulo.dll
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\retangulo.pdb
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\retangulo.genruntimeconfig.cache
+D:\Tecnologia\Projetos\C#\retangulo\obj\Debug\net9.0\ref\retangulo.dll

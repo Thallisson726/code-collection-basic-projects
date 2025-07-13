@@ -1,0 +1,14 @@
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\bin\Debug\net9.0\Diagonalnegativos.exe
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\bin\Debug\net9.0\Diagonalnegativos.deps.json
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\bin\Debug\net9.0\Diagonalnegativos.runtimeconfig.json
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\bin\Debug\net9.0\Diagonalnegativos.dll
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\bin\Debug\net9.0\Diagonalnegativos.pdb
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\Diagonalnegativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\Diagonalnegativos.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\Diagonalnegativos.AssemblyInfo.cs
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\Diagonalnegativos.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\Diagonalnegativos.dll
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\refint\Diagonalnegativos.dll
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\Diagonalnegativos.pdb
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\Diagonalnegativos.genruntimeconfig.cache
+D:\Tecnologia\Projetos\C#\Diagonalnegativos\obj\Debug\net9.0\ref\Diagonalnegativos.dll

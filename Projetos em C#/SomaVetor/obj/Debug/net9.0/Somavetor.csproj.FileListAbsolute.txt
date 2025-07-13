@@ -1,0 +1,28 @@
+D:\Tecnologia\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.exe
+D:\Tecnologia\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.deps.json
+D:\Tecnologia\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.runtimeconfig.json
+D:\Tecnologia\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.dll
+D:\Tecnologia\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.pdb
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.AssemblyInfo.cs
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.dll
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\refint\Somavetor.dll
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.pdb
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.genruntimeconfig.cache
+D:\Tecnologia\Projetos\C#\Somavetor\obj\Debug\net9.0\ref\Somavetor.dll
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.exe
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.deps.json
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.runtimeconfig.json
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.dll
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\bin\Debug\net9.0\Somavetor.pdb
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.AssemblyInfoInputs.cache
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.AssemblyInfo.cs
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.dll
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\refint\Somavetor.dll
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.pdb
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\Somavetor.genruntimeconfig.cache
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Somavetor\obj\Debug\net9.0\ref\Somavetor.dll

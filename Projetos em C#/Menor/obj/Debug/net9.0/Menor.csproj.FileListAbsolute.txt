@@ -1,0 +1,28 @@
+D:\Tecnologia\Projetos\C#\Menor\bin\Debug\net9.0\Menor.exe
+D:\Tecnologia\Projetos\C#\Menor\bin\Debug\net9.0\Menor.deps.json
+D:\Tecnologia\Projetos\C#\Menor\bin\Debug\net9.0\Menor.runtimeconfig.json
+D:\Tecnologia\Projetos\C#\Menor\bin\Debug\net9.0\Menor.dll
+D:\Tecnologia\Projetos\C#\Menor\bin\Debug\net9.0\Menor.pdb
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\Menor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\Menor.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\Menor.AssemblyInfo.cs
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\Menor.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\Menor.dll
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\refint\Menor.dll
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\Menor.pdb
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\Menor.genruntimeconfig.cache
+D:\Tecnologia\Projetos\C#\Menor\obj\Debug\net9.0\ref\Menor.dll
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\bin\Debug\net9.0\Menor.exe
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\bin\Debug\net9.0\Menor.deps.json
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\bin\Debug\net9.0\Menor.runtimeconfig.json
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\bin\Debug\net9.0\Menor.dll
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\bin\Debug\net9.0\Menor.pdb
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\Menor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\Menor.AssemblyInfoInputs.cache
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\Menor.AssemblyInfo.cs
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\Menor.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\Menor.dll
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\refint\Menor.dll
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\Menor.pdb
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\Menor.genruntimeconfig.cache
+D:\Tecnologia\Cursos\Algoritimos e lógica de programação\Projetos\C#\Menor\obj\Debug\net9.0\ref\Menor.dll

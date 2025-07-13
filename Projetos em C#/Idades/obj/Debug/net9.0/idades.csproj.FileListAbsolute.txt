@@ -1,0 +1,14 @@
+D:\Tecnologia\Projetos\C#\idades\bin\Debug\net9.0\idades.exe
+D:\Tecnologia\Projetos\C#\idades\bin\Debug\net9.0\idades.deps.json
+D:\Tecnologia\Projetos\C#\idades\bin\Debug\net9.0\idades.runtimeconfig.json
+D:\Tecnologia\Projetos\C#\idades\bin\Debug\net9.0\idades.dll
+D:\Tecnologia\Projetos\C#\idades\bin\Debug\net9.0\idades.pdb
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\idades.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\idades.AssemblyInfo.cs
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\idades.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\idades.dll
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\refint\idades.dll
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\idades.pdb
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\idades.genruntimeconfig.cache
+D:\Tecnologia\Projetos\C#\idades\obj\Debug\net9.0\ref\idades.dll

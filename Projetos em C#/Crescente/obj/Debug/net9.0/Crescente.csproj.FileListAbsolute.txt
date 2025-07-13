@@ -1,0 +1,14 @@
+D:\Tecnologia\Projetos\C#\Crescente\bin\Debug\net9.0\Crescente.exe
+D:\Tecnologia\Projetos\C#\Crescente\bin\Debug\net9.0\Crescente.deps.json
+D:\Tecnologia\Projetos\C#\Crescente\bin\Debug\net9.0\Crescente.runtimeconfig.json
+D:\Tecnologia\Projetos\C#\Crescente\bin\Debug\net9.0\Crescente.dll
+D:\Tecnologia\Projetos\C#\Crescente\bin\Debug\net9.0\Crescente.pdb
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\Crescente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\Crescente.AssemblyInfoInputs.cache
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\Crescente.AssemblyInfo.cs
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\Crescente.csproj.CoreCompileInputs.cache
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\Crescente.dll
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\refint\Crescente.dll
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\Crescente.pdb
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\Crescente.genruntimeconfig.cache
+D:\Tecnologia\Projetos\C#\Crescente\obj\Debug\net9.0\ref\Crescente.dll
